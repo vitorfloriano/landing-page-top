@@ -34,10 +34,48 @@ body {
 }
 
 .square {
-    width: 500px;
-    height: 500px;
+    width: auto;
+    height: auto;
     background-color: blue;
-    max-width: 250px;
-    max-height: 150px;
+    max-width: 200px;
+    max-height: 200px;
 }
 
+.image-section {
+    display: flex;
+}
+
+.third-section {
+    padding: 40px 88px;
+    text-align: center;
+}
+
+.third-section div {
+    padding: 8px;
+}
+
+.fourth-section {
+    padding: 40px 88px;
+    justify-content: center;
+    text-align: left;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cta-section {
+    background-color: lightseagreen;
+    margin: 20px;
+    padding: 8px 88px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+    background-color: blueviolet;
+}
