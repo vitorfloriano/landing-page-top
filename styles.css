@@ -14,7 +14,8 @@ body {
     margin: 0;
     border: 0;
     padding: 20px 88px;
-    background-color: aqua;
+    background-color: #1f2937;
+    color: white;
 }
 
 .header-container div {
@@ -22,15 +23,29 @@ body {
     gap: 18px;
 }
 
+.header-logo {
+    font: 24px white;
+}
+
 .second-section-container {
     display: flex;
     padding: 40px 88px;
     flex: 1 1 100;
     justify-content: space-between;
+    background-color: #1f2937;
+    color: white;
 }
 
 .hero-container {
     max-width: 300px;
+}
+
+.hero-text {
+    font: 48px extra-bold white;
+}
+
+.hero-secondary-text {
+    font: 18px white;
 }
 
 .square {
@@ -60,6 +75,7 @@ body {
     padding: 40px 88px;
     justify-content: center;
     text-align: left;
+    background-color: #e5e7eb;
 }
 
 .quote-author {
@@ -68,17 +84,30 @@ body {
 }
 
 .cta-section {
-    background-color: lightseagreen;
+    background-color: #3882f6;
+    color: white;
     margin: 20px;
     padding: 38px 88px;
-    border-radius: 10px;
+    border-radius: 4px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
-.footer {
-    text-align: center;
-    padding: 40px;
-    background-color: blueviolet;
+footer {
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #1f2937;
+  color: white;
+  margin: 0;
+}
+
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border-color: white;
 }
