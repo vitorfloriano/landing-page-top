@@ -20,13 +20,3 @@ body {
     display: flex;
     gap: 18px;
 }
-
-.hero-container {
-    display: flex;
-    justify-content: space-between;
-}
-
-.hero-inner-container {
-    display: flex;
-    flex-direction: column;
-}
