@@ -70,10 +70,11 @@ body {
 .cta-section {
     background-color: lightseagreen;
     margin: 20px;
-    padding: 8px 88px;
+    padding: 38px 88px;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .footer {
