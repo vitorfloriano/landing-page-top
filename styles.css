@@ -43,11 +43,13 @@ body {
 
 .image-section {
     display: flex;
+    justify-content: center;
 }
 
 .third-section {
     padding: 40px 88px;
     text-align: center;
+    justify-content: center;
 }
 
 .third-section div {
