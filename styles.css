@@ -13,7 +13,7 @@ body {
     justify-content: space-between;
     margin: 0;
     border: 0;
-    padding: 20px 200px;
+    padding: 20px 20vw;
     background-color: #1f2937;
     color: white;
 }
@@ -29,7 +29,7 @@ body {
 
 .second-section-container {
     display: flex;
-    padding: 40px 200px;
+    padding: 40px 20vw;
     margin: 0;
     flex: 1 1 100;
     justify-content: space-between;
@@ -63,7 +63,7 @@ body {
 }
 
 .third-section {
-    padding: 40px 200px;
+    padding: 40px 20vw;
     text-align: center;
     justify-content: center;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .fourth-section {
-    padding: 40px 200px;
+    padding: 40px 20vw;
     justify-content: center;
     text-align: left;
     background-color: #e5e7eb;
@@ -87,8 +87,8 @@ body {
 .cta-section {
     background-color: #3882f6;
     color: white;
-    margin: 20px 70px;
-    padding: 38px 200px;
+    margin: 20px 15vw;
+    padding: 38px 5vw;
     border-radius: 4px;
     display: flex;
     justify-content: space-between;
