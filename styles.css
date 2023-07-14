@@ -14,7 +14,7 @@ body {
     justify-content: space-between;
     margin: 0;
     border: 0;
-    padding: 40px 20%;
+    padding: 20px 200px;
     background-color: #1f2937;
     color: white;
 }
@@ -30,7 +30,7 @@ body {
 
 .second-section-container {
     display: flex;
-    padding: 8px 20%;
+    padding: 40px 200px;
     margin: 0;
     justify-content: space-between;
     background-color: #1f2937;
@@ -65,7 +65,7 @@ body {
 }
 
 .third-section {
-    padding: 40px 20%;
+    padding: 40px 200px;
     text-align: center;
     justify-content: center;
 }
@@ -75,7 +75,7 @@ body {
 }
 
 .fourth-section {
-    padding: 40px 20%;
+    padding: 40px 200px;
     justify-content: center;
     text-align: left;
     background-color: #e5e7eb;
@@ -89,8 +89,8 @@ body {
 .cta-section {
     background-color: #3882f6;
     color: white;
-    margin: 20px 20%;
-    padding: 40px;
+    margin: 20px 70px;
+    padding: 38px 200px;
     border-radius: 4px;
     display: flex;
     justify-content: space-between;
@@ -105,6 +105,7 @@ footer {
   background-color: #1f2937;
   color: white;
   margin: 0;
+  height: 5vh;
 }
 
 button {
