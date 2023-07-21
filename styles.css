@@ -105,6 +105,22 @@ body {
     padding: 8px;
 }
 
+.little-squares {
+    height: 150px;
+    width: 150px;
+    border: 2px solid #3882f6;
+    border-radius: 4%;
+}
+
+.square-text-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+}
+
 .fourth-section-wrapper {
     display: flex;
     justify-content: center;
