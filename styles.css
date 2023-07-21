@@ -71,12 +71,17 @@ body {
     font: 18px white;
 }
 
-.square {
-    width: auto;
-    height: auto;
+.big-square {
+    display: flex;
     background-color: blue;
-    max-width: 200px;
-    max-height: 200px;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-color: #e5e7eb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #1f2937;
 }
 
 .image-section {
