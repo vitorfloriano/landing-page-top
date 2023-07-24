@@ -84,6 +84,11 @@ body {
     color: #1f2937;
 }
 
+#first-button {
+    border-color: #3882f6;
+    font-weight: bold;
+}
+
 .image-section {
     display: flex;
     justify-content: center;
