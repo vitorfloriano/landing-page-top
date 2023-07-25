@@ -74,14 +74,15 @@ body {
 .big-square {
     display: flex;
     background-color: blue;
-    width: 200px;
-    height: 200px;
+    width: 50%;
+    height: 100%;
     margin: auto;
     background-color: #e5e7eb;
     text-align: center;
     justify-content: center;
     align-items: center;
     color: #1f2937;
+    flex-shrink: 1;
 }
 
 #first-button {
