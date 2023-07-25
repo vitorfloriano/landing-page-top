@@ -166,12 +166,13 @@ body {
     background-color: #3882f6;
     color: white;
     margin: 20px 70px;
-    padding: 38px 200px;
+    padding: 38px 100px;
     border-radius: 4px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 900px;
+    box-sizing: border-box;
 }
 
 footer {
